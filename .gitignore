@@ -1,0 +1,6 @@
+output/
+
+# Local study media and screenshots used during skill research; keep locally, do not publish with the skill
+*.mp4
+lecture1.jpg
+lecture2.jpg

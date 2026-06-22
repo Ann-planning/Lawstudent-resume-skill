@@ -1,0 +1,4 @@
+interface:
+  display_name: "法学生简历教练"
+  short_description: "定向优化法学生简历与求职材料"
+  default_prompt: "Use $lawstudent-skill to rewrite my law student resume for a target legal internship role."
